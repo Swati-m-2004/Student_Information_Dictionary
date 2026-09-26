@@ -129,4 +129,4 @@ The project demonstrates how Python dictionaries can be used to represent struct
 
 **Internship:** AI & ML Track  
 **Task:** Day 7 – Student Information Dictionary  
-**Author:** Swati Muttannavar
+
